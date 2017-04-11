@@ -1,5 +1,14 @@
 /**
  * Created by matt on 4/4/17.
  */
-public class ConsumeState {
+abstract class ConsumeState {
+	
+	Context _mContext;
+	
+	abstract void eatChars();
+	protected boolean collectChar(){
+		return false;
+		
+	}
+	
 }
