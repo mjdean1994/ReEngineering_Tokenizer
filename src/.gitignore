@@ -1,0 +1,12 @@
+/ConsumeState.class
+/Context.class
+/EatAlphanum.class
+/EatCComment.class
+/EatCppComment.class
+/EatDQString.class
+/EatPunctuator.class
+/EatRawCSharpString.class
+/EatRawCppString.class
+/EatSQString.class
+/EatSpecialCharacter.class
+/EatWhitespace.class
